@@ -9,8 +9,8 @@ This Power BI project analyzes the growth and adoption of electric vehicles sinc
 - Interactive visuals using Power BI
 
 ## 📂 Files:
-- `Electric_Vehicles.pbix` → Power BI dashboard
-- `EV_data.csv` → Dataset used
+- `Electric_Vehicles_Report.pbix` → Power BI dashboard
+- `Electrical_Vehicle_dataset.xlsm` → Dataset used
 - `README.md` → Project documentation
 
 ## 🔗 Screenshots:
